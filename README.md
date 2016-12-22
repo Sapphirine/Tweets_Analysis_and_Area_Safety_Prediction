@@ -17,7 +17,7 @@ Since Twitter has become an efficient approach to express people’s mood, we pe
 
 ## Keywords:
 
-Keywords- Classification; Spark; Decision Tree;  D3; Big Data Analysis
+Classification; Spark; Decision Tree;  D3; Big Data Analytics
 
 
 ## Youtube Presentation
